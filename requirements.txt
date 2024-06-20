@@ -7,3 +7,6 @@ json==2.0.9
 requests==2.31.0
 csv==1.0
 tensorflow==2.15.0
+sastrawi
+sklearn
+pickle
