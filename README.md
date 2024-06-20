@@ -21,7 +21,7 @@ The KidLink Dataset is composed of publicly accessible datasets available for pe
 
 Before using this model, make sure you have the following software installed:
 
-1. Python (version 3.0 or later)
+1. Python version 3.10.12
 2. The Python packages listed in the `requirements.txt` file
 
 ## Installation
