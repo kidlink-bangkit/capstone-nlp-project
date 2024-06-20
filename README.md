@@ -27,3 +27,24 @@ Before using this model, make sure you have the following software installed:
 
 ```bash
 git clone https://github.com/kidlink-bangkit/capstone-nlp-project.git
+'''
+
+2. Go to the repository directory:
+
+```
+cd casptone-nlp-project
+```
+
+3. (Optional) Create and activate the virtual environment:
+
+```
+python3 -m venv env
+source env/bin/activate
+```
+
+4. Install the required packages:
+
+```
+pip install -r requirements.txt
+
+```
