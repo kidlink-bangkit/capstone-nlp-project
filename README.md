@@ -1,5 +1,8 @@
 # capstone-nlp-project
 
+![tf_image](https://logowik.com/content/uploads/images/tensorflow-new1255.jpg)
+
+
 ## Description
 
 This repository is part of the machine learning division repository, which contains datasets, models, and the results of the trained models.
