@@ -1,1 +1,1 @@
-# capstone-nlp-project
+# kidlink-model-project
